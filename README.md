@@ -27,8 +27,8 @@ Name=eth0
 KernelCommandLine=!nfsroot
 
 [Network]
-Address=193.96.192.45/27
-DNS=208.67.222.222 77.88.8.88
+Address=192.168.178.45/24
+DNS=8.8.8.8
 (to be changed)
 
 
