@@ -1,0 +1,57 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# bin folder
+bin/*
+!bin/ARM64/
+!bin/x86_64/
+
+bin/ARM64/*
+bin/x86_64/*
+!bin/x86_64/Release/
+!bin/x86_64/Debug/
+!bin/ARM64/Release/
+!bin/ARM64/Debug/
+
+bin/x86_64/Release/*
+bin/x86_64/Debug/*
+bin/ARM64/Release/*
+bin/ARM64/Debug/*
+
+!bin/x86_64/Release/README.md
+!bin/x86_64/Debug/README.md
+!bin/ARM64/Release/README.md
+!bin/ARM64/Debug/README.md
+
+# tools folder
+!tools/
+
+#vscode folde
+.vscode/*

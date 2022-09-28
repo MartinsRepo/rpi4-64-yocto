@@ -1,0 +1,13 @@
+HET-CORE
+Copyright (c) 2022 Continental AG and subsidiaries. All rights reserved.
+
+All binaries and source code stored in this repository, except listed Third Party Software below, remains PROPRIETARY and CONFIDENTIAL. Any kind of distribution is prohibited unless explicitly a written consent is given by Continental AG. This software is provided AS-IS without any warrenty nor without any liability.
+
+
+Additional Third Party Packages
+----------------------------------------------------------------
+Package Name          Version            Licence Type           
+----------------------------------------------------------------
+OpenCV                4.3.0             BSD 3-clause
+TensorflowLite        2.6.0             Apache License 2.0
+CMake                 3.22.2            BSD 3-clause
