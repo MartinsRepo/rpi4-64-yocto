@@ -3,6 +3,8 @@ LIC_FILES_CHKSUM=""
 
 INSANE_SKIP.${PN} += "already-stripped"
 
+LIC_FILES_CHKSUM = "file://LICENSE;md5=a77c327d4d1da3707d42dde9725d4769"
+
 #FILESEXTRAPATHS:prepend := "${THISDIR}:"
 FILESPATH = "${FILE_DIRNAME}/files"
 
