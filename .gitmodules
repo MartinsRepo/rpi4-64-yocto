@@ -10,3 +10,7 @@
 	path = poky
 	url = https://git.yoctoproject.org/poky
         branch = kirkstone
+[submodule "meta-qt5"]
+	path = meta-qt5
+	url = https://github.com/meta-qt5/meta-qt5
+        branch = kirkstone
